@@ -23,7 +23,7 @@ Please see final-presentation.pdf for an overview of this project
 - Compile the C++ postprocessing: `cd lib/pafprocess; sh make.sh` 
 - `python demo/picture_demo.py` to run the picture demo.
 - `python demo/web_demo.py` to run the web demo.
-- `python dance_demo.py` to run the dance pose evaluation demo.
+- **`python dance_demo.py` to run the dance pose evaluation demo.**
 
 ## Evalute
 - `python evaluate/evaluation.py` to evaluate the model on coco val2017 dataset.
@@ -87,12 +87,3 @@ ${DATA_ROOT}
 
 All contributions are welcomed. If you encounter any issue (including examples of images where it fails) feel free to open an issue.
 
-## Citation
-Please cite the paper in your publications if it helps your research: 
-
-    @InProceedings{cao2017realtime,
-      title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
-      author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
-      booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-      year = {2017}
-      }
