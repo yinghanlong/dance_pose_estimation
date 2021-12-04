@@ -7,7 +7,7 @@ Please see final-presentation.pdf for an overview of this project
 ## Results
 
 <p align="left">
-<img src="https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation/blob/master/readme/result.gif", width="720">
+<img src="https://github.com/yinghanlong/dance_pose_estimation/blob/main/dance_results/perfect_example.JPG", width="720">
 </p>
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT) 
